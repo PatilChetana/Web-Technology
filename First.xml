@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Firstxsl.xsl"?>
+<student>
+	<comp>
+		<rollno>1</rollno>
+		<name>Chetana</name>
+		<div>B</div>
+	</comp>
+	<comp>
+		<rollno>2</rollno>
+		<name>Priya</name>
+		<div>B</div>
+	</comp>
+	<mech>
+		<project>SUPRA</project>
+	</mech>
+</student>
